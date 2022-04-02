@@ -23,8 +23,9 @@ padding: 4px 15px 4px 5px;
 
 #button{
 display: inline-block;
-background-color:#fc999b;
+background-color:#2b09f0;
 color:#ffffff;
+font-weight: bold;
 border-radius: 5px;
 text-align:center;
 margin-top:2px;
